@@ -16,5 +16,4 @@
     def post_params
     params.premit(:content)
   end
-
 end
